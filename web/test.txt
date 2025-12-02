@@ -1,0 +1,8 @@
+Nombre: Carlos
+Apellido: Solís
+Teléfono: 55555555
+correo: test@thisisatest.iaa
+mensaje: Hola, esta es una prueba.
+Dirección: Madrid, España
+Signo zodiacal: Sagitario
+comida favorita: tacos
