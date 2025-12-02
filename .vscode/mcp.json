@@ -6,5 +6,12 @@
                 "X-MCP-Readonly": "true"
             }
         },
+        "google-maps-platform-code-assist": {
+            "command": "npx",
+            "args": [
+                "-y",
+                "@googlemaps/code-assist-mcp@latest"
+            ]
+        },
     }
 }
